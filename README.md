@@ -1,4 +1,5 @@
 # Parallel and Concurrent Programming
+![image](https://github.com/Dhruvbam/Parallel-and-Concurrent-Programming/blob/main/Images/ss.jpg)
 
 ## About
 This repository contains five assignment projects completed as part of the Parallel and Concurrent Programming (CS 4379) course at Texas Tech University. These projects focus on applying parallel computing techniques using **MPI (Message Passing Interface)** to solve computational problems efficiently. The assignments explore topics like parallel computation, matrix operations, synchronization, and force calculations, demonstrating various parallel programming paradigms.
