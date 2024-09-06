@@ -44,8 +44,12 @@ This repository primarily utilizes:
     ```
 
 ## Learning Outcomes
-Through these assignments, students gain hands-on experience in:
-- Implementing parallel algorithms using MPI.
-- Developing efficient synchronization techniques.
-- Balancing workloads across multiple processes.
-- Handling complex communication patterns in distributed systems.
+Through these assignments, I developed strong skills in parallel computing and system synchronization, focusing on:
+
+- **Parallel Algorithms with MPI**: Implemented parallel algorithms using **MPI**, optimizing performance and resource utilization across distributed systems.
+- **Efficient Synchronization**: Designed and implemented synchronization mechanisms to ensure data consistency across processes, mastering mutexes and semaphores.
+- **Workload Balancing**: Gained expertise in balancing workloads across multiple processes, improving system efficiency in parallel computations.
+- **Complex Communication Patterns**: Handled complex inter-process communication, enhancing my ability to design scalable and efficient distributed systems.
+
+These experiences solidified my ability to tackle parallel computing challenges in real-world environments.
+
